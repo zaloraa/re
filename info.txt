@@ -1,0 +1,15 @@
+Leaked by Telegram : @CasperSecurity
+Don't Play With me kids ;)
+TitaniumExV1
+
+Features :
++ 80 Wordpress Exploit
++ Popular Wordpress Shell Finder
++ Telegram Log
++ Fast Scan
++ Multi Scan
+
+Informations :
+1 - Use python3
+2 - /wp-content/updates.php Shell Password : cfwk
+3 - /TitaniumEx.php Shell Use of : /TitaniumEx.php?Titanium=Ex
